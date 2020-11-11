@@ -1,3 +1,13 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server proc
+
+
+
+remote_theme : mmistakes/minimal-mistakes
 # Site settings
 title: Hux Blog
 SEOTitle: 黄玄的博客 | Hux Blog
@@ -21,7 +31,7 @@ twitter_username:   huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 
-remote_theme : mmistakes/minimal-mistakes
+
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
